@@ -1,0 +1,2 @@
+This project includes software from [ecs-saml-with-aws-cli](https://github.com/rentom/ecs-saml-with-aws-cli.git).
+Modifications were made to use [boto3](https://pypi.org/project/boto3/) instead of the `aws` CLI.

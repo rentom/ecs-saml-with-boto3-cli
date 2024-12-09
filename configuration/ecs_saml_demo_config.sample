@@ -1,0 +1,15 @@
+{
+  "BASE": {
+    "logging_level": "info"
+  },
+  "SAML_IDP": {
+      "idp_sso_url": "<idp_sso_login_url>>"
+    },
+  "AWS_CONFIGURATION": {
+    "region": "US",
+    "output": "json",
+    "sts_endpoint": "",
+    "token_session_duration_seconds": "3600",
+    "namespace_endpoint": ""
+  }
+}
